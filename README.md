@@ -9,4 +9,4 @@ The CBT folder contains toolkit and helpful tips that help us in cracking the CB
 
 ---
 ## Skill Test
-The Skill folder contains the resources and tips for cracking the skill test.
+The Skill folder contains the resources and tips for cracking the Skill Test.
